@@ -1,0 +1,322 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The demands and proposals of the Parliament of Scotland to be presented to the Parliament of England, by the Lord Lee, for removing the King neer London, a personall treaty, and the disbanding the Lord Fairfax his army. Votes of the Parliament of Scotland that the Parliament of England have broken the covenant and treaties in seven particulars, and the answer given to the English commissioners.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92556</idno>
+            <idno type="STC">Wing S1229</idno>
+            <idno type="STC">Thomason E436_6</idno>
+            <idno type="STC">ESTC R204622</idno>
+            <idno type="EEBO-CITATION">99864087</idno>
+            <idno type="PROQUEST">99864087</idno>
+            <idno type="VID">161607</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92556)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161607)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E436[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The demands and proposals of the Parliament of Scotland to be presented to the Parliament of England, by the Lord Lee, for removing the King neer London, a personall treaty, and the disbanding the Lord Fairfax his army. Votes of the Parliament of Scotland that the Parliament of England have broken the covenant and treaties in seven particulars, and the answer given to the English commissioners.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bernard Alsop, and are to be sold at the Royall-exchange in Corne-hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of letters from Berwick-upon-Tweed and Edinburgh.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Solemn League and Covenant (1643) --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161607:1" rendition="simple:additions"/>
+            <p>THE DEMANDS AND PROPOSALS OF The Parliament of <hi>Scotland</hi> to be preſented to the Parli<g ref="char:EOLhyphen"/>ament of <hi>England,</hi> by the Lord <hi>Lee,</hi> for remo<g ref="char:EOLhyphen"/>ving the King neer London, a perſonall treaty, and the disbanding the Lord <hi>Fairfax</hi> his army.</p>
+            <p>Votes of the Parliament of <hi>Scotland</hi> that the Parliament of <hi>England</hi> have broken the Covenant and trea<g ref="char:EOLhyphen"/>ties in ſeven particulars, and the anſwer given to the Engliſh Commiſſioners</p>
+            <p>
+               <hi>Die Mer.</hi> 19 <hi>April.</hi> 1648.</p>
+            <p>THeſe papers were read and appointed to be Printed by the Originall Copies.</p>
+            <p>Imprimatur <hi>Dilbert Mabbot.</hi>
+            </p>
+            <p>London Printed, by <hi>Bernard Alſop,</hi> and are to be ſold at the Royall-exchange in Corne-hill. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161607:2"/>
+            <pb n="1" facs="tcp:161607:2"/>
+            <head>THE DEMANDS AND PROPOSALS OF The Parliament of Scotland, to be preſented to the Parlia<g ref="char:EOLhyphen"/>ment of England, by the Lord <hi>Lee,</hi> for removing the King neer <hi>London,</hi> &amp;c.</head>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">T</seg>HE Parliament of Scotland have beene upon an anſwer to the deſires of the Clergy, which I believe you have ſeen long ere this, but al<g ref="char:EOLhyphen"/>though they would haue firſt ſtated the que<g ref="char:EOLhyphen"/>ſtion, yet carryed on the negative, and the anſwers reſolved on, was not hele ſatisfacto<g ref="char:EOLhyphen"/>ry to the Miniſtery. Some dayes there are great hopes of an agreement, and other days the diſtance is ſo farre, as ſcarce any man ſhal know how neer they are to have an Army: ma<g ref="char:EOLhyphen"/>ny Engliſh men are at Edenburgh, and they doe dayly in<g ref="char:EOLhyphen"/>creaſe.
+<pb n="2" facs="tcp:161607:3"/>Another great ſhip came to Leeth Rode on Fryday night laſt; what ſhe is, is not yet known, but a flying Report of the Prince being in her, but no certainty. Some Iriſh Re<g ref="char:EOLhyphen"/>bels are come into ſome of the Scots Iſlands, and the Marq. of <hi>Argyles</hi> Regiment are directed, with ſome others, to march towards them. This is all, I earneſtly requeſt a correſpon<g ref="char:EOLhyphen"/>dency weekly, and where I ſhal direct my Letter unto you, that I may take the occaſion to ſubſcribe my ſelf.</p>
+               <closer>
+                  <signed>Your oblieged ſervant, R. S.</signed>
+                  <dateline>
+                     <hi>Barwick</hi> 
+                     <date>12 <hi>April,</hi> 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>The Copy of a Letter from Edinburgh, touching ſeverall Propo<g ref="char:EOLhyphen"/>ſitions to be ſent to the <hi>Parliament</hi> of <hi>England.</hi>
+               </head>
+               <opener>
+                  <salute>Noble Sir,</salute>
+               </opener>
+               <p>YOurs I received, and by way of requitall take what hath occurred ſince my laſt. The difference be<g ref="char:EOLhyphen"/>tween the State and the Clergy is as great as ever; they will by no means conſent to the raiſing of an Army, till the King eſtabliſh the Presbytery: yet notwithſtanding I hear for certain, that an Army is raiſing, and men liſting in divers parts of this Kingdome; 'tis ſuppoſed 'twill be ſpee<g ref="char:EOLhyphen"/>dily effected; and becauſe many of the Commanders of the ſtanding Forces of this Kingdome do not concur with them in this deſign, thoſe Forces are to be disbanded, and the Earl of <hi>Calender</hi> is to be General of their new <hi>Modell;</hi> inſomuch, that the Cavees and Engliſh Fugitives grow very high, trea<g ref="char:EOLhyphen"/>ting ruine and deſtruction to the Parliament and their Ad<g ref="char:EOLhyphen"/>herents.</p>
+               <p>Our Commiſſioners have not had audience, nor anſwer
+<pb n="3" facs="tcp:161607:3"/>to any one of the papers they have delivered to the Parlia<g ref="char:EOLhyphen"/>ment, but are promiſed it this week. We hear that 'tis <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed by this Parliament, that our parliament have broken the Covenant and Treaties with them in ſeven particulars. Its likewiſe reported, that the Lord <hi>Lee</hi> is to goe ſpeedily to <hi>England</hi> with propoſitions from this Parliament; the one is, about ſetling Religion according to the Covenant, a ſecond for removing the King to one of his Houſes, and a perſonall treaty with him: the third for disbanding the Army, with others, which I hope to ſend the certainty of by the next, I have underneath, written you the names of the Committee of danger, with ſome that are added.</p>
+               <closer>
+                  <dateline>
+                     <hi>Edinburgh</hi> 
+                     <date>10. <hi>Apr.</hi> 1648.</date>
+                  </dateline>
+                  <signed>Your moſt affectionate friend to ſerve you.
+<list>
+                        <item>
+                           <hi>Duke Hambleton.</hi>
+                        </item>
+                        <item>
+                           <hi>Mar. Argile.</hi>
+                        </item>
+                        <item>
+                           <hi>Ld. Treaſurer.</hi>
+                        </item>
+                        <item>
+                           <hi>Ld. Lannerick.</hi>
+                        </item>
+                        <item>
+                           <hi>E. Calender.</hi>
+                        </item>
+                        <item>
+                           <hi>E. Ladderdale.</hi>
+                        </item>
+                        <item>
+                           <hi>added</hi>
+                        </item>
+                        <item>
+                           <hi>E. Uxborough.</hi>
+                        </item>
+                        <item>
+                           <hi>E. Traquire.</hi>
+                        </item>
+                        <item>
+                           <hi>Burroughs</hi>
+                        </item>
+                        <item>
+                           <hi>Archibald Sidſerfe.</hi>
+                        </item>
+                        <item>
+                           <hi>Sr. Peter Wedderborne.</hi>
+                        </item>
+                        <item>
+                           <hi>Patrick Leſly.</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Sh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>rt.</hi>
+                        </item>
+                        <item>
+                           <hi>George Porterfeild.</hi>
+                        </item>
+                        <item>
+                           <hi>William Gloudoving.</hi>
+                        </item>
+                        <item>
+                           <hi>added</hi>
+                        </item>
+                        <item>
+                           <hi>George Bell.</hi>
+                        </item>
+                        <item>
+                           <hi>Iames Pady.</hi>
+                        </item>
+                        <item>
+                           <hi>Barons</hi>
+                        </item>
+                        <item>
+                           <hi>Innerpeffer.</hi>
+                        </item>
+                        <item>
+                           <hi>Lee.</hi>
+                        </item>
+                        <item>
+                           <hi>Hunbey.</hi>
+                        </item>
+                        <item>
+                           <hi>Wariſton.</hi>
+                        </item>
+                        <item>
+                           <hi>Arneſton.</hi>
+                        </item>
+                        <item>
+                           <hi>Collington.</hi>
+                        </item>
+                        <item>
+                           <hi>added</hi>
+                        </item>
+                        <item>
+                           <hi>Innis.</hi>
+                        </item>
+                        <item>
+                           <hi>Garthland</hi>
+                        </item>
+                        <item>
+                           <hi>for</hi>
+                        </item>
+                        <item>
+                           <hi>Edenborough.</hi>
+                        </item>
+                        <item>
+                           <hi>Dundee.</hi>
+                        </item>
+                        <item>
+                           <hi>Aberdeen.</hi>
+                        </item>
+                        <item>
+                           <hi>Sterling.</hi>
+                        </item>
+                        <item>
+                           <hi>Glaſgow.</hi>
+                        </item>
+                        <item>
+                           <hi>Kirk-Gudbright.</hi>
+                        </item>
+                        <item>
+                           <hi>Lithgow.</hi>
+                        </item>
+                        <item>
+                           <hi>Munroſſe.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="4" facs="tcp:161607:4"/>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>SInce my writing by this Poſt, I received a Letter juſt now from Edinburgh, whereby I perceive it was con<g ref="char:EOLhyphen"/>cluded yeſterday, that an Army ſhould be forthwith levyed though it be kept very cloſe. There is a Lord called <hi>Lee,</hi> as I heare appointed Commiſſioner for <hi>England,</hi> with ſome Pro<g ref="char:EOLhyphen"/>poſitions touching Religion, a perſonall Treaty with his Majeſty, and disbanding of the Army: This is all that is materiall, I am, Sir,</p>
+               <closer>
+                  <signed>Your aſsured loving friend, <hi>R. G.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>Barwick</hi> 
+                     <date>12 <hi>April,</hi> 1648.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <p>Since the writing hereof we hear that the Parliament of Scotland have given an anſwer to our Commiſſioners pa<g ref="char:EOLhyphen"/>pers, but it is ſaid to be very unſatisfactory, and that they re<g ref="char:EOLhyphen"/>fer the ſubſtance of all to their own Commiſſioners which are comming into <hi>England</hi> to treat with the Parliament.</p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>Worthy Sir,</salute>
+               </opener>
+               <p>FOr affairs in theſe parts, wee heare another <hi>Mac-Donald,</hi> commonly called <hi>Kolkittoh,</hi> and a Kinſ<g ref="char:EOLhyphen"/>man of the former, is riſen in Arms in the Marq. of <hi>Argyles</hi> Country, which hath cauſed ſundry Forces that
+<pb n="5" facs="tcp:161607:4"/>lay in the Southern parts of <hi>Scotland,</hi> to march North<g ref="char:EOLhyphen"/>ward to the ſuppreſſion of him, A<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l the Officers in the ſtanding Army of <hi>Scotland,</hi> ſave Lieut-Gen. <hi>Middle<g ref="char:EOLhyphen"/>ton,</hi> have petitioned the Parliament not to ingage in a war againſt <hi>England,</hi> unleſse the Church do concur with them. Some Demands or Propoſals from the Parlia<g ref="char:EOLhyphen"/>ment of <hi>Scotland,</hi> to the Parliament of <hi>England</hi> will ſhortly be ſent By which we may gueſſe, a good deale of time wil be ſpent, before our Brethren reſolve one way or other,</p>
+               <p>The Kirk and State here, are ſtill at a diſtance, one day there is ſome likelyhood of an agreement betweene them, another while there is no hope at all: to ſay truth, af<g ref="char:EOLhyphen"/>fairs in <hi>Scotland</hi> lie loſe, things are done, and not done: the <hi>Scots</hi> expect, that the diviſion and diſtempers in England will increaſe, and prepare the way for their coming into England: they love to go upon ſome grounds, and thereupon they build their hopes, being ſtill at liberty to declare and joyne with whatſoever intereſt and party ſhall be found moſt advantagious, and ſuitable to their ends, If, in ſome ſhort time, the Cloud in Wales blow o<g ref="char:EOLhyphen"/>ver, and the Parliament make examples in puniſhing <hi>Poyer,</hi> and others, that are there in Rebellion, it wil be a great discouragement, and happily, may put a period to
+<pb n="6" facs="tcp:161607:5"/>the deſigns of the Malignant parties in both Kingdoms, the <hi>Scots</hi> have agreed to raiſe an Army, the Lord <hi>Lee</hi> is to be ſent to the Parliament of England, with Pro<g ref="char:EOLhyphen"/>poſals and Demands: In the meane time, the Engliſh flock thither apace, and the common ſouldiers have <hi>4. d.</hi> a day. All will be nought.</p>
+               <closer>
+                  <dateline>Barwick <date>12. April, 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
